@@ -3,8 +3,10 @@
 Private repository to minimize manual effort for the azure monitoring pattern excell sheet using powershell. 
 
 
-## working with Rest
+## Working with Rest
 
+
+ - settingm some variables first
 ```PowerShell
 Connect-AzAccount
 
@@ -12,7 +14,7 @@ $SubscriptionID = 'c02646f3-6401-40c7-8543-69333821da9a'
 $ResourceGroup = 'ContosoAll'
 $ApiVersion  = '2021-04-01'
 ```
-- Add the following function to your code
+- Add the following function to your code for getting the auth header.
 
 ```PowerShell
 Function Get-AuthHeader {
@@ -35,21 +37,31 @@ $authHeader
 }
 ```
 
-# Working with several providers.
+# Working with Microsoft.Insights provider
 
+Get the header first for rest authentication/authorization
 ```PowerShell
 $authHeader = Get-AuthHeader -SubscriptionID $SubscriptionID
+```
+
+Get the resources per Subscription/resource group
+```PowerShell
 $ResourceListUri = "https://management.azure.com/subscriptions/$SubscriptionID/resourceGroups/$ResourceGroup/resources?api-version=$ApiVersion"
+$ResourceList = Invoke-RestMethod -URI $URI -Method Get -Headers $authHeader
+```
+
+Get the metric defionions per resouce
+```PowerShell
+$MetricDefinitionURI = "https://management.azure.com$ResourceID/providers/Microsoft.Insights/metricDefinitions?api-version=2018-01-01"
+$ResourceList = Invoke-RestMethod -URI $MetricDefinitionURI -Method Get -Headers $authHeader
+```
+
+Get the resource details using the resourceid from the metric list.
+```PowerShell
 $ResourceURI = "https://management.azure.com/subscriptions/c02646f3-6401-40c7-8543-69333821da9a/resourceGroups/ContosoAll/providers/Microsoft.Compute/virtualMachines/emreg-web01?api-version=$ApiVersion"
 $ResourceID = '/subscriptions/c02646f3-6401-40c7-8543-69333821da9a/resourceGroups/CONTOSOALL/providers/Microsoft.Compute/virtualMachines/emreg-web01'
-$MetricURI = "https://management.azure.com$ResourceID/providers/Microsoft.Insights/metrics?api-version=$ApiVersion"
-
-$ResourceList = Invoke-RestMethod -URI $URI -Method Get -Headers $authHeader
 $Resource = Invoke-RestMethod -Method get -URI  $ResourceURI -Headers $authHeader
-$Metrics = Invoke-RestMethod -Method get -Uri $MetricURI -Headers $authHeader
-$Resource.resources
 
-$Results.value.Count
 ```
 
 
