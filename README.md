@@ -64,6 +64,15 @@ $Resource = Invoke-RestMethod -Method get -URI  $ResourceURI -Headers $authHeade
 
 ```
 
+get List of activity logs for the subscription
+
+```PowerShell
+    $StartDate = (((Get-Date).AddDays(-1*$DaysOld)).ToUniversalTime()).GetDAteTimeFormats('o')
+    $Filter = "eventTimestamp ge '$StartDate'"
+    $ActivitLogURI = "https://management.azure.com/subscriptions/$subscriptionId/providers/Microsoft.Insights/eventtypes/management/values?api-version=$ApiVersion&`$filter=$filter"
+    (Invoke-RestMethod -Method Get -Uri $ActivitLogURI -Headers $AuthHeader).Value
+```
+
 
 # error handling
 
