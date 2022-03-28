@@ -2,7 +2,32 @@
 
 Private repository to minimize manual effort for the azure monitoring pattern excell sheet using powershell. 
 
+# Scoping
+- Metrics in the sheet needs to be per class
+- Ignore the non existing metric exceptions (Aggreed)
+- Check if you can find some 
 
+
+
+# 
+
+# Types
+ - Resource
+```
+ Name        MemberType   Definition
+----        ----------   ----------
+Equals      Method       bool Equals(System.Object obj)
+GetHashCode Method       int GetHashCode()
+GetType     Method       type GetType()
+ToString    Method       string ToString()
+id          NoteProperty string id=/subscriptions/c02646f3-6401-40c7-8543-69333821da9a/resourceGroups/ContosoAll/providers/microsoft.insights/workbooks/82ab8601-967d-4ee2-b3c6-e40b4ed4716c
+identity    NoteProperty System.Management.Automation.PSCustomObject identity=@{type=None}
+kind        NoteProperty string kind=shared
+location    NoteProperty string location=eastus
+name        NoteProperty string name=82ab8601-967d-4ee2-b3c6-e40b4ed4716c
+tags        NoteProperty System.Management.Automation.PSCustomObject tags=@{hidden-title=Workbook 2}
+type        NoteProperty string type=microsoft.insights/workbooks
+ ```
 ## Working with Rest
 
 
