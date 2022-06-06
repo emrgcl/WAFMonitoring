@@ -1,0 +1,484 @@
+[05/06/2022 19:24:36][Get-MetricsForResource] microsoft.insights/workbooks is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspaces
+[05/06/2022 19:24:37][Get-MetricsForResource] Microsoft.Network/networkSecurityGroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis
+[05/06/2022 19:24:39][Get-MetricsForResource] Microsoft.Network/networkSecurityGroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis
+[05/06/2022 19:24:40][Get-MetricsForResource] Microsoft.Automation/automationAccounts/runbooks is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Healt
+[05/06/2022 19:24:41][Get-MetricsForResource] Microsoft.Automation/automationAccounts/configurations is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft
+[05/06/2022 19:24:42][Get-MetricsForResource] Microsoft.Compute/virtualMachines/extensions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Healthcar
+[05/06/2022 19:24:43][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:44][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:45][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:46][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:48][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:49][Get-MetricsForResource] Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspac
+[05/06/2022 19:24:50][Get-MetricsForResource] Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspac
+[05/06/2022 19:24:51][Get-MetricsForResource] Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspac
+[05/06/2022 19:24:52][Get-MetricsForResource] Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspac
+[05/06/2022 19:24:53][Get-MetricsForResource] Microsoft.OperationsManagement/solutions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApi
+[05/06/2022 19:24:54][Get-MetricsForResource] Microsoft.OperationsManagement/solutions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApi
+[05/06/2022 19:24:56][Get-MetricsForResource] microsoft.insights/actiongroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 19:24:56][Get-MetricsForResource] microsoft.insights/scheduledqueryrules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGate
+[05/06/2022 19:24:57][Get-MetricsForResource] microsoft.insights/scheduledqueryrules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGate
+[05/06/2022 19:24:58][Get-MetricsForResource] microsoft.insights/scheduledqueryrules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGate
+[05/06/2022 19:24:58][Get-MetricsForResource] microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea
+[05/06/2022 19:24:59][Get-MetricsForResource] microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea
+[05/06/2022 19:25:01][Get-MetricsForResource] microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea
+[05/06/2022 19:25:01][Get-MetricsForResource] microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea
+[05/06/2022 19:25:02][Get-MetricsForResource] Microsoft.HybridCompute/machines/extensions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/na
+[05/06/2022 19:25:03][Get-MetricsForResource] Microsoft.HybridCompute/machines is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/worksp
+[05/06/2022 19:25:04][Get-MetricsForResource] Microsoft.HybridCompute/machines is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/worksp
+[05/06/2022 19:25:05][Get-MetricsForResource] Microsoft.HybridCompute/machines is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/worksp
+[05/06/2022 19:25:06][Get-MetricsForResource] Microsoft.Insights/dataCollectionRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGate
+[05/06/2022 19:25:07][Get-MetricsForResource] Microsoft.Network/routeTables is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspace
+[05/06/2022 19:54:03][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 19:54:03][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:54:03][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:54:23][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:54:23][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:54:23][new-AzureMonitoringPattern.ps1] Script ended. Duration 20 seconds.
+[05/06/2022 19:55:42][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 19:55:42][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:55:42][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:55:54][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:55:54][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:55:55][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:55][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:55][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:56][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:56][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:56][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:56][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:57][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:57][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:59][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:59][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:59][Get-MetricsForResource] Forbidden
+[05/06/2022 19:55:59][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:01][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:01][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:01][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:01][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:01][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:02][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:03][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:03][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:04][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:05][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:05][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:05][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:05][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:05][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:07][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:07][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:08][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:08][Get-MetricsForResource] Forbidden
+[05/06/2022 19:56:08][new-AzureMonitoringPattern.ps1] Script ended. Duration 26 seconds.
+[05/06/2022 19:58:01][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 19:58:01][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:58:01][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 19:58:16][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:58:16][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 19:58:18][Get-MetricsForResource] Forbidden
+[05/06/2022 19:58:19][Get-MetricsForResource] Forbidden
+[05/06/2022 19:58:20][Get-MetricsForResource] Forbidden
+[05/06/2022 19:58:21][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:06][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:00:06][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:00:06][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:00:20][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:00:20][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:00:22][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:23][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:23][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:25][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:30][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:31][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:31][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:31][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:31][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:32][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:32][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:36][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:36][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:36][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:00:37][new-AzureMonitoringPattern.ps1] Script ended. Duration 31 seconds.
+[05/06/2022 20:02:37][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:02:37][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:02:37][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:02:51][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:02:51][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:02:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:02:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:24][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:03:24][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:03:24][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:03:34][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:03:34][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:03:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:34][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:35][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:36][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:36][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:37][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:38][Get-MetricsForResource] Forbidden
+[05/06/2022 20:03:39][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:45][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:05:45][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:05:45][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:05:57][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:05:58][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:05:58][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:58][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:58][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:58][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:59][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:59][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:59][Get-MetricsForResource] Forbidden
+[05/06/2022 20:05:59][Get-MetricsForResource] Forbidden
+[05/06/2022 20:06:00][Get-MetricsForResource] Forbidden
+[05/06/2022 20:06:00][Get-MetricsForResource] Forbidden
+[05/06/2022 20:06:00][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:15][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:07:15][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:07:15][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:07:23][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:07:23][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:07:24][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:24][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:25][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:25][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:25][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:25][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:26][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:26][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:26][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:26][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:26][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:30][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:30][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:30][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:30][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:31][Get-MetricsForResource] Forbidden
+[05/06/2022 20:07:31][new-AzureMonitoringPattern.ps1] Script ended. Duration 16 seconds.
+[05/06/2022 20:08:40][<ScriptBlock>] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:16][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:17][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:17][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:17][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:17][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:17][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:35][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:10:35][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:10:35][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:10:47][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:10:47][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:10:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:48][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:49][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:49][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:49][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:49][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:50][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:50][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:50][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:50][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:50][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:51][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:51][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:51][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:51][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:51][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:10:53][new-AzureMonitoringPattern.ps1] Script ended. Duration 18 seconds.
+[05/06/2022 20:11:01][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:11:01][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:11:01][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:11:10][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:11:10][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:11:10][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:10][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:10][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:11][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:11][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:11][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:11][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:11][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:11:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:12:59][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:12:59][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:12:59][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:13:11][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:13:37][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:17:33][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:17:33][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:17:33][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:17:47][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:18:01][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:18:01][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:18:01][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:18:12][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:18:36][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:18:36][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:18:36][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:18:45][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:18:45][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:18:45][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:45][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:45][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:45][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:46][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:46][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:46][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:46][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:46][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:18:47][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:19][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:19:19][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:19:19][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:19:27][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:19:27][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:19:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:27][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:28][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:19:29][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:00][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:22:00][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:22:00][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:22:12][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:22:12][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:22:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:12][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:13][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:14][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:14][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:14][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:43][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 20:22:43][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:22:43][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 20:22:51][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 20:22:51][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:52][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:53][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:54][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:55][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:56][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:57][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:57][Get-MetricsForResource] Forbidden
+[05/06/2022 20:22:57][new-AzureMonitoringPattern.ps1] Script ended. Duration 13 seconds.
+[ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 4 : 3 3 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S c r i p t   S t a r t e d .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 4 : 3 3 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   F o u n d   1   n u m b e r   o f   s u b s c r i p t i o n s .   S u b s c r i p t i o n I d s :   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 4 : 3 3 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S t a r t e d   W o r k i n g   o n   S u b s c r i p t i o n     w i t h   i d   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 4 : 5 1 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   F o u n d   2 4 5   r e s o u r c e s .   T h e s e   r e s o u r c e s   a r e   i n s t a n c e s   o f   3 1   u n i q u e   R e s o u r c e   t y p e s .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 4 : 5 1 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   S e l e c t e d   3 1   r e s o u r c e s   f o r   s a m p l i n g .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 8 : 0 0 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S c r i p t   S t a r t e d .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 8 : 0 0 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   F o u n d   1   n u m b e r   o f   s u b s c r i p t i o n s .   S u b s c r i p t i o n I d s :   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 8 : 0 0 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S t a r t e d   W o r k i n g   o n   S u b s c r i p t i o n     w i t h   i d   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 8 : 1 4 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   F o u n d   2 4 5   r e s o u r c e s .   T h e s e   r e s o u r c e s   a r e   i n s t a n c e s   o f   3 1   u n i q u e   R e s o u r c e   t y p e s .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 0 : 2 8 : 1 4 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   S e l e c t e d   3 1   r e s o u r c e s   f o r   s a m p l i n g .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 1 : 2 7 : 4 8 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S c r i p t   S t a r t e d .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 1 : 2 7 : 4 8 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   F o u n d   1   n u m b e r   o f   s u b s c r i p t i o n s .   S u b s c r i p t i o n I d s :   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 1 : 2 7 : 4 8 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   S t a r t e d   W o r k i n g   o n   S u b s c r i p t i o n     w i t h   i d   ' c 0 2 6 4 6 f 3 - 6 4 0 1 - 4 0 c 7 - 8 5 4 3 - 6 9 3 3 3 8 2 1 d a 9 a '  
+ [ 0 5 / 0 6 / 2 0 2 2   2 1 : 2 8 : 0 9 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   F o u n d   2 4 5   r e s o u r c e s .   T h e s e   r e s o u r c e s   a r e   i n s t a n c e s   o f   3 1   u n i q u e   R e s o u r c e   t y p e s .  
+ [ 0 5 / 0 6 / 2 0 2 2   2 1 : 2 8 : 0 9 ] [ n e w - A z u r e M o n i t o r i n g P a t t e r n . p s 1 ]   ' C o n t o s o A l l ' :   S e l e c t e d   3 1   r e s o u r c e s   f o r   s a m p l i n g .  
+ [05/06/2022 21:31:30][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 21:31:30][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:31:30][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:31:44][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 21:31:44][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 21:31:45][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:45][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:46][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:46][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:48][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:48][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:49][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:50][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:51][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:52][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:52][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:52][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:52][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:53][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:54][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:54][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:55][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:56][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:56][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:56][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:56][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:57][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:57][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:57][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:57][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:58][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:58][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:58][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:58][Get-MetricsForResource] Forbidden
+[05/06/2022 21:31:59][Get-MetricsForResource] Forbidden
+[05/06/2022 21:32:25][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 21:32:25][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:32:25][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:32:35][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 21:33:20][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 21:38:09][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 21:38:09][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:38:09][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:38:22][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 21:38:22][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 21:38:24][Get-MetricsForResource] Response status code does not indicate success: 400 (microsoft.insights/workbooks is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspaces).
+[05/06/2022 21:38:25][Get-MetricsForResource] Response status code does not indicate success: 400 (Bad Request).
+[05/06/2022 21:38:28][Get-MetricsForResource] Response status code does not indicate success: 400 (Bad Request).
+[05/06/2022 21:38:28][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.Automation/automationAccounts/configurations is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft).
+[05/06/2022 21:38:30][Get-MetricsForResource] Response status code does not indicate success: 400 (Bad Request).
+[05/06/2022 21:38:31][Get-MetricsForResource] Response status code does not indicate success: 400 (Bad Request).
+[05/06/2022 21:38:37][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGateways,Mic).
+[05/06/2022 21:38:41][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.OperationsManagement/solutions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApi).
+[05/06/2022 21:38:43][Get-MetricsForResource] Response status code does not indicate success: 400 (microsoft.insights/actiongroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa).
+[05/06/2022 21:38:44][Get-MetricsForResource] Response status code does not indicate success: 400 (microsoft.insights/scheduledqueryrules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/).
+[05/06/2022 21:38:46][Get-MetricsForResource] Response status code does not indicate success: 400 (microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea).
+[05/06/2022 21:38:50][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.HybridCompute/machines/extensions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Healthcare).
+[05/06/2022 21:38:50][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.HybridCompute/machines is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/worksp).
+[05/06/2022 21:38:53][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.Insights/dataCollectionRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/).
+[05/06/2022 21:38:54][Get-MetricsForResource] Response status code does not indicate success: 400 (Microsoft.Network/routeTables is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGateways,Micr).
+[05/06/2022 21:38:54][new-AzureMonitoringPattern.ps1] Script ended. Duration 45 seconds.
+[05/06/2022 21:49:50][new-AzureMonitoringPattern.ps1] Script Started.
+[05/06/2022 21:49:50][new-AzureMonitoringPattern.ps1] Found 1 number of subscriptions. SubscriptionIds: 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:49:50][new-AzureMonitoringPattern.ps1] Started Working on Subscription  with id 'c02646f3-6401-40c7-8543-69333821da9a'
+[05/06/2022 21:50:05][new-AzureMonitoringPattern.ps1] 'ContosoAll': Found 245 resources. These resources are instances of 31 unique Resource types.
+[05/06/2022 21:50:05][new-AzureMonitoringPattern.ps1] 'ContosoAll': Selected 31 resources for sampling.
+[05/06/2022 21:50:06][Get-MetricsForResource] microsoft.insights/workbooks is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspaces
+[05/06/2022 21:50:07][Get-MetricsForResource] Microsoft.Network/networkSecurityGroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGat
+[05/06/2022 21:50:09][Get-MetricsForResource] Microsoft.Automation/automationAccounts/runbooks is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Netwo
+[05/06/2022 21:50:10][Get-MetricsForResource] Microsoft.Automation/automationAccounts/configurations is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft
+[05/06/2022 21:50:11][Get-MetricsForResource] Microsoft.Compute/virtualMachines/extensions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Healthcar
+[05/06/2022 21:50:12][Get-MetricsForResource] Microsoft.Compute/sshPublicKeys is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 21:50:18][Get-MetricsForResource] Microsoft.DevTestLab/schedules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGateways,Mic
+[05/06/2022 21:50:21][Get-MetricsForResource] Microsoft.OperationsManagement/solutions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApi
+[05/06/2022 21:50:23][Get-MetricsForResource] microsoft.insights/actiongroups is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/workspa
+[05/06/2022 21:50:23][Get-MetricsForResource] microsoft.insights/scheduledqueryrules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.IoTCentral/IoTApps,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/
+[05/06/2022 21:50:26][Get-MetricsForResource] microsoft.alertsmanagement/smartDetectorAlertRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Hea
+[05/06/2022 21:50:37][Get-MetricsForResource] Microsoft.HybridCompute/machines/extensions is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.Healthcare
+[05/06/2022 21:50:38][Get-MetricsForResource] Microsoft.HybridCompute/machines is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/worksp
+[05/06/2022 21:50:40][Get-MetricsForResource] Microsoft.Insights/dataCollectionRules is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.HealthcareApis/services,Microsoft.HealthcareApis/
+[05/06/2022 21:50:41][Get-MetricsForResource] Microsoft.Network/routeTables is not a supported platform metric namespace, supported ones are Microsoft.AnalysisServices/servers,Microsoft.Web/staticSites,Microsoft.Web/serverFarms,Microsoft.Web/sites,Microsoft.Web/sites/slots,Microsoft.Web/hostingEnvironments,Microsoft.Web/hostingEnvironments/multiRolePools,Microsoft.Web/hostingEnvironments/workerPools,Microsoft.Web/connections,Microsoft.IoTCentral/IoTApps,Microsoft.ServiceBus/namespaces,Microsoft.Network/virtualNetworks,Microsoft.Network/natGateways,Micr
+[05/06/2022 21:50:41][new-AzureMonitoringPattern.ps1] Script ended. Duration 51 seconds.
