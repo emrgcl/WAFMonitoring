@@ -10,17 +10,15 @@ Before working on the **Azure Monitoring Pattern** you may want to run the scrip
     ```PowerShell
     @{
         Subscriptions = @(
-            # Subscription and resource groups to discover. 
-            # You can add multiple resource groups per subscription and add as many subscription/resoucegroup key value pairs as desired.
-            @{'c02646f3-6401-40c7-8543-69333821da9a' = @('ContosoAll')}
+            # Subscription and resource groups to discover
+            @{'2410b933-6fd3-4c5e-b532-f858f63f2f8b' = @('ContosoAll','ContosoNew')}
+            @{'2e3600b2-7289-4d8f-bb01-06af4142c2ff' = @('ResouceGroup1')}
         )
         Settings = @{
-            # Export the reports in to the below path.
             ExportPath = '.\Reports'
-            # Log file if you need to troubleshoot. By default rotates daily.
             LogfilePath = ".\AzureMonitoringPattern.log"
-            # Number of days to collect the activity log. 
             ActivityLogDays=7
+            
         }
     }
     ```
