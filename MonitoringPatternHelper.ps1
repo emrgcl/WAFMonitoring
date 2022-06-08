@@ -181,6 +181,8 @@ Function Select-ResourceSample {
     }
 }
 #region Main
+#Requires -Module @{ModuleName='Az.Accounts';ModuleVersion ='2.7.1'},@{ModuleName='Az.Monitor';ModuleVersion ='2.7.0 '}
+Connect-AzAccount | Out-Null
 $ScriptStart = Get-Date
 $WarningPreference = 'SilentlyContinue'
 try {
